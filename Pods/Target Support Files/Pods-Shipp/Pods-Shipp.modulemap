@@ -1,0 +1,6 @@
+framework module Pods_Shipp {
+  umbrella header "Pods-Shipp-umbrella.h"
+
+  export *
+  module * { export * }
+}

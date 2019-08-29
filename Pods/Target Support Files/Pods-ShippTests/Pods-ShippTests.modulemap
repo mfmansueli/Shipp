@@ -1,6 +1,0 @@
-framework module Pods_ShippTests {
-  umbrella header "Pods-ShippTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
